@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe"
+  },
+  "max_uses": 1.0,
+  "reputation_discount": 0.5,
+  "wants": {
+    "count": 13.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 30.0
+}
